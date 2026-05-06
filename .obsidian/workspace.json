@@ -202,15 +202,16 @@
   "active": "e7e883dcfe0bad28",
   "lastOpenFiles": [
     "React-native/fontSetup.md",
+    "React-native/Location Permission.md",
+    "React-native/02 Initialize App.md",
+    "React-native/01 Dev Env Setup.md",
+    "React-native",
     "Expo/React-native/fontSetup.md",
     "Expo/React-native/02 Initialize App.md",
     "Expo/React-native/Location Permission.md",
     "Expo/React-native/01 Dev Env Setup.md",
     "Expo/React-native",
     "Expo/App initialization.md",
-    "React-native/01 Dev Env Setup.md",
-    "React-native/Location Permission.md",
-    "React-native/02 Initialize App.md",
     "Expo/Untitled 1.md",
     "Untitled",
     "Expo",
@@ -230,7 +231,6 @@
     "Python",
     "React-native/Animation",
     "React-native/Expo",
-    "React-native",
     "Welcome.md"
   ]
 }
