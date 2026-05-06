@@ -28,5 +28,3 @@ export default {
 ```bash
 npx react-native-asset
 ```
-```sh
-```

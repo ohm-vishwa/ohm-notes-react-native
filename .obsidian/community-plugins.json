@@ -2,5 +2,7 @@
   "vscode-editor",
   "new-tab-default-page",
   "obsidian-editor-shortcuts",
-  "browser-interface"
+  "browser-interface",
+  "keyshots",
+  "custom-font-loader"
 ]
