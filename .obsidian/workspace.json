@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expo/App initialization.md",
+                "file": "React-native/fontSetup.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App initialization"
+              "title": "fontSetup"
             }
           }
         ],
@@ -201,12 +201,12 @@
   },
   "active": "e7e883dcfe0bad28",
   "lastOpenFiles": [
+    "Expo/App initialization.md",
     "React-native/01 Dev Env Setup.md",
     "React-native/Location Permission.md",
     "React-native/fontSetup.md",
     "React-native/02 Initialize App.md",
     "Expo/Untitled 1.md",
-    "Expo/App initialization.md",
     "Untitled",
     "Expo",
     "Full Stack React Native App/app setup.md",
