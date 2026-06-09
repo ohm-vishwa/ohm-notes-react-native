@@ -11,13 +11,11 @@ onChangeText={(text) => setText(text)} // Called when text changes
 
 onChange={(event) => {}} // Native change event
 
-
 // --- Placeholder ---
 
 placeholder="Enter text" // Placeholder text
 
 placeholderTextColor="#999" // Placeholder color
-
 
 // --- Keyboard ---
 
