@@ -1500,7 +1500,4 @@ const ITEM_HEIGHT = 72;
 ---
 
 
-> [!note]- React Native TextInput
-> Hidden content here
-
 *Reference based on React Native stable API. Always check the [official docs](https://reactnative.dev/docs/flatlist) for the latest updates.*
