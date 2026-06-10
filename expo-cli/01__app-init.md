@@ -1,15 +1,18 @@
 ```sh
-npx create-expo-app@latest AppName --template 
+npx create-expo-app@latest AppName --template
 ```
+
 best way to install packages or libraries in expo
+
 ```
 npm install package ❌
 ```
+
 installs tested version for expo app
+
 ```
 npx expo install package ✅
 ```
-
 
 <details>
 <summary>It's output would look something like</summary>
@@ -46,3 +49,18 @@ sd
 f
 
 </details>
+
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td><strong>Type</strong></td>
+    <td><code>ImageSourcePropType</code></td>
+  </tr>
+  <tr>
+    <td><strong>Required</strong></td>
+    <td>Yes</td>
+  </tr>
+</table>
