@@ -16,6 +16,20 @@ npx expo install package ✅
 
 <details>
 <summary>It's output would look something like</summary>
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td><strong>Type</strong></td>
+    <td><code>ImageSourcePropType</code></td>
+  </tr>
+  <tr>
+    <td><strong>Required</strong></td>
+    <td>Yes</td>
+  </tr>
+</table>
 <pre lang="bash">
 	Configuring LuaRocks version 3.11.1...
 	
@@ -49,18 +63,3 @@ sd
 f
 
 </details>
-
-<table>
-  <tr>
-    <th>Property</th>
-    <th>Value</th>
-  </tr>
-  <tr>
-    <td><strong>Type</strong></td>
-    <td><code>ImageSourcePropType</code></td>
-  </tr>
-  <tr>
-    <td><strong>Required</strong></td>
-    <td>Yes</td>
-  </tr>
-</table>
