@@ -46,7 +46,9 @@ The image source. Accepts a local asset require, a URI object, an array of URIs,
 ]} />
 ```
 
-</details> <details> <summary><code>defaultSource</code> — <em>ImageSource</em></summary>
+</details> 
+
+<details> <summary><code>defaultSource</code> — <em>ImageSource</em></summary>
 
 Displayed while the remote image is loading. Acts as a placeholder. Only supported with static local assets on Android.
 
