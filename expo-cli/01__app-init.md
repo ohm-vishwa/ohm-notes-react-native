@@ -51,15 +51,4 @@ npx expo install package ✅
 	* Type make bootstrap:
 	  to install LuaRocks into /usr/local as a rock.
 </pre>
-sadfsfdsf
-asfsdfdsf
-dsf
-ds
-f
-sdf
-ds
-f
-sd
-f
-
 </details>
