@@ -1026,7 +1026,7 @@ const base64Uri = `data:image/jpeg;base64,${result.assets[0].base64}`;
 
 </details> <details> <summary>Hero image with text overlay using ImageBackground</summary>
 
-```jsx
+```jsx 
 <ImageBackground
   source={{ uri: heroUrl }}
   style={{ width: '100%', height: 240 }}
